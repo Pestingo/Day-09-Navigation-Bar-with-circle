@@ -7,5 +7,6 @@ Day-9-Navigation-Bar-with-circle
 
 🌈 Styling Options: Customize colors, shadows, and borders for uniqueness.
 
-image.png
+![image](https://github.com/user-attachments/assets/c62a2da8-689f-47e4-82fe-1002cf65f326)
+
 
